@@ -1,4 +1,6 @@
-# Brackeys Godot Beginner Tutorial
+# How to make a Video Game - Godot Beginner Tutorial
+
+Project created following Brackeys's "[How to make a Video Game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)" video.
 
 ## Licensing
 
