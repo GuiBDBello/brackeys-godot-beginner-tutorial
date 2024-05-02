@@ -28,6 +28,7 @@
 - Q: Select Tool.
 - W: Move Tool.
 - Hold Shift while dragging an object: Snap the object to an axis.
+- Hold Ctrl while releasing a Node into a script to create a reference for that Node.
 
 ### AnimationPlayer
 
