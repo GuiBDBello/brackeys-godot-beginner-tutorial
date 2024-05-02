@@ -25,5 +25,27 @@
 - Ctrl + A or click "+" sign on top-left: Add Child Node.
 - Ctrl + Shift + F11: Toggle distraction-free mode.
 - F: Focus. Center selected object on screen.
-- W: Move Tool.
 - Q: Select Tool.
+- W: Move Tool.
+- Hold Shift while dragging an object: Snap the object to an axis.
+
+### AnimationPlayer
+
+- New animation;
+- Add keyframe;
+- Change timeline;
+- Change Node state;
+- Add keyframe;
+- Select loop/ping-pong;
+- Select autoplay.
+
+### GDScript
+
+- `func _ready()`: Called when the Node enters the SceneTree.
+- `func _process(delta)`: Called every frame. `delta` is the elapsed time since the previous frame.
+
+### Signal
+
+- Signals allow us to trigger code based in events that happen in our game.
+- All Signals are displayed at the upper right "Node" tab.
+- To add, double-click a Signal and select "Connect". Then, at the green icon at the left of the line number, select the Node that triggers that Signal.
