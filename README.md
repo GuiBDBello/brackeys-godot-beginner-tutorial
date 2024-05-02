@@ -16,3 +16,14 @@
 - Nesting: Putting Scenes inside of other Scenes.
 - If you update the Scene, it automatically updates everywhere that Scene is being used.
 - Scene Tree: All the Nodes and Scenes in our game resemble a tree-like structure. The Node at the beginning of the tree is called "Root".
+
+## Godot
+
+- F5: Run Project.
+- F8: Stop Running Project.
+- "+" sign on top: Add a new scene.
+- Ctrl + A or click "+" sign on top-left: Add Child Node.
+- Ctrl + Shift + F11: Toggle distraction-free mode.
+- F: Focus. Center selected object on screen.
+- W: Move Tool.
+- Q: Select Tool.
