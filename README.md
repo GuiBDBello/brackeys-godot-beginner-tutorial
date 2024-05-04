@@ -31,6 +31,8 @@ Project created following Brackeys's "[How to make a Video Game - Godot Beginner
 - W: Move Tool.
 - Hold Shift while dragging an object: Snap the object to an axis.
 - Hold Ctrl while releasing a Node into a script to create a reference for that Node.
+- Autoload: Global scenes and scripts that we want to persist throughout our entire game, no matter which scene is currently loaded.
+	- Project > Project Settings... > Autoload > Select a scene or script > Add.
 
 ### AnimationPlayer
 
